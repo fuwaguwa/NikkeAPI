@@ -26,7 +26,6 @@
         "arrow-parens": ["warn", "as-needed", {
             "requireForBlockBody": true
         }],
-        "linebreak-style": ["warn", "windows"],
         "no-mixed-spaces-and-tabs": ["warn", "smart-tabs"],
         "no-useless-escape": ["off"],
         "no-async-promise-executor": ["off"],
