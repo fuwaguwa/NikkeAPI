@@ -1,16 +1,11 @@
 # Nikke API
 
-JSON API for querying character information from the mobile game - "Nikke: Goddess of Victory". Data is compiled https://prydwen.gg development team, please go check them out!
+~~Static~~ API for querying character information from the mobile game - "Nikke: Goddess of Victory". Data is processed from https://prydwen.gg, please go check them out!
 
 API Link: https://nikke-api.vercel.app
 
 ## Hosting Locally
 `npm i` then `npm start`
-
-## Updating database
-```
-npm run update
-```
 
 ## Routes
 Currently, the API only is able to provide information for the in game characters.<br>
