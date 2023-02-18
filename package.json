@@ -11,8 +11,7 @@
     "prettify": "prettier --write \"**/*.ts\"",
     "format": "npm run prettify && npm run eslint",
     "build": "tsc",
-    "build:watch": "tsc -w",
-    "update": "node dist/updater.js"
+    "build:watch": "tsc -w"
   },
   "keywords": [],
   "author": "",
